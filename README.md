@@ -13,4 +13,4 @@
 ### • Backend: RESTful API, PostgreSQL, Node.js, Express.js, Clarifai API
 ### • Others: npm packages (Bcrypt, knex, body parser, cors)
 
-## Architecture![image](https://user-images.githubusercontent.com/46899307/129155446-9e93a923-b096-4e07-ac2e-e2b43bce56ab.png)
+## Website Screenshot [image](https://user-images.githubusercontent.com/46899307/129155446-9e93a923-b096-4e07-ac2e-e2b43bce56ab.png)
