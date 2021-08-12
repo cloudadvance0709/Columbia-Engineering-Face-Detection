@@ -1,7 +1,7 @@
 # Columbia-Engineering-Face-Detection
 
 ## Overview ##
-### A website that user can login to their account or register to see how many picture of faces they have been detact by the website's face detection application.
+### A website that user can login to their account or register to use the Clarifai API to locate a face in a picture, and it also counts how many picture of faces have been detact by the website.
 
 
 ## Demo Video ##
